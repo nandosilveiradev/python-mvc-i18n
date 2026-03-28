@@ -1,3 +1,5 @@
+[legado] --> pytrix-env
+
 inicialização do projeto 
 
 python3 -m venv venv
